@@ -1,4 +1,4 @@
-# laberinto
+# Laberinto
 
 Link Juego:
 
