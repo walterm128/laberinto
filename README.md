@@ -4,7 +4,7 @@ Link Juego:
 
 https://walterm128.github.io/laberinto/
 
-![alt](ScreenShot.png)
+![alt](Screenshot.png)
 
 Novedades:
 ---------
