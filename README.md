@@ -21,7 +21,9 @@ Más Juegos:
 
 Sistema solar:
 
-Web: https://github.com/walterm128/gweinsteingame
+Web Unity: https://github.com/walterm128/gweinsteingame
+
+Web Godot: https://walterm128.github.io/GodotSolarSystem/
 
 Showroom Liga Nacional de Robótica LNR:
 
