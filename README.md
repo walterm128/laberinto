@@ -29,7 +29,7 @@ Showroom Liga Nacional de Robótica LNR:
 
 Web: https://github.com/walterm128/LNR
 
-PC: https://mega.nz/file/cFFWQIDL#1Hz11aOwFpflveK6UQbtu1WbHWOsoBWezgAjELWIIdU
+PC: https://mega.nz/file/YVF2Ca6A#MCuADg-yHdbL3yOhuoibt6HjyO69HTKVcOpv09oTDW4
 
 Otros:
 
