@@ -22,11 +22,13 @@ Más Juegos:
 Sistema solar:
 
 Web: https://github.com/walterm128/gweinsteingame
+
 PC: https://mega.nz/file/AF9xWC5C#z1qiHDlrzrvraDJePPS58NBvalVtHwSxPcIXjotn2g4
 
 Showroom Liga Nacional de Robótica:
 
 Web: https://github.com/walterm128/LNR
+
 PC: https://mega.nz/file/oU1WVBBC#1Hz11aOwFpflveK6UQbtu1WbHWOsoBWezgAjELWIIdU
 
 Otros:
