@@ -2,7 +2,9 @@
 
 Link Juego Web:
 
-https://walterm128.github.io/laberinto/
+Web: https://walterm128.github.io/laberinto/
+
+PC: https://mega.nz/file/dIFwXahI#rKa3x0PryjhsAHc_1DbGXK-OXIeAMJc8AHnmxXUYoxw
 
 Link Descarga Juego PC:
 
@@ -23,13 +25,11 @@ Sistema solar:
 
 Web: https://github.com/walterm128/gweinsteingame
 
-PC: https://mega.nz/file/AF9xWC5C#z1qiHDlrzrvraDJePPS58NBvalVtHwSxPcIXjotn2g4
-
-Showroom Liga Nacional de Robótica:
+Showroom Liga Nacional de Robótica LNR:
 
 Web: https://github.com/walterm128/LNR
 
-PC: https://mega.nz/file/oU1WVBBC#1Hz11aOwFpflveK6UQbtu1WbHWOsoBWezgAjELWIIdU
+PC: https://mega.nz/file/cFFWQIDL#1Hz11aOwFpflveK6UQbtu1WbHWOsoBWezgAjELWIIdU
 
 Otros:
 
