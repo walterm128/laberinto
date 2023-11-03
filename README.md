@@ -12,6 +12,13 @@ PC: https://mega.nz/file/dIFwXahI#rKa3x0PryjhsAHc_1DbGXK-OXIeAMJc8AHnmxXUYoxw
 
 Novedades:
 ---------
+
+03-11-2023
+  * Migrado a Godot 3.5.3
+  * Se agrega la opción de sensibilidad del Mouse
+  * Se agrega un nivel mas el número: 6
+  * Los Libros cambian página con flechas: derecha e izquierda
+
 16-03-2023
   * Se agregan 2 niveles
   * Se Agrega auto guardado cuando salimos al menú principal
