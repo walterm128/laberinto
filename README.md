@@ -6,12 +6,15 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-PC: https://mega.nz/file/5MVXAapa#ox-HZMhKmduVpkwJkbFuqX5L3VYhkCh-i-c75MjdEA0
+PC: https://mega.nz/file/BN0BVKhD#yUqGeqmeI_SjBPTjP6DCmW-_mGWGvdOIbGQd7Mu6B-s
 
 ![alt](Screenshot.png)
 
 Novedades:
 ---------
+07-11-2023
+  * Shader Black Hole
+
 06-11-2023
   * Mas partes del juego con TrenchBroom
   * Sincronización de animaciones y sonidos
