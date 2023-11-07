@@ -19,7 +19,7 @@ Novedades:
 
 03-11-2023
   * Migrado a Godot 3.5.3
-    * Anterior hecho en Unity 2022 Game Jam Rosario
+    * Anterior hecho en Unity 2022 Game Jam Rosario Niveles 1, 2 y 3
   * Se agrega la opción de sensibilidad del Mouse
   * Se agrega un nivel mas el número: 6 (TrenchBroom)
   * Los Libros cambian página con flechas: derecha e izquierda
