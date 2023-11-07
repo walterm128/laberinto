@@ -12,15 +12,21 @@ PC: https://mega.nz/file/5MVXAapa#ox-HZMhKmduVpkwJkbFuqX5L3VYhkCh-i-c75MjdEA0
 
 Novedades:
 ---------
+06-11-2023
+  * Mas partes del juego con TrenchBroom
+  * Sincronización de animaciones y sonidos
+  * Mas oclusión en ciertos mapas
 
 03-11-2023
   * Migrado a Godot 3.5.3
   * Se agrega la opción de sensibilidad del Mouse
-  * Se agrega un nivel mas el número: 6
+  * Se agrega un nivel mas el número: 6 (TrenchBroom)
   * Los Libros cambian página con flechas: derecha e izquierda
+  * Las llaves guardan el juego como check point
 
 16-03-2023
   * Se agregan 2 niveles
+    * HTerrain
   * Se Agrega auto guardado cuando salimos al menú principal
   * Se agrega enemigo a partir de niveles 4 y 5
 
