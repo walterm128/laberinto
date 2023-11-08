@@ -14,6 +14,8 @@ Novedades:
 ---------
 07-11-2023
   * Shader Black Hole
+  * Fix Portals
+  * Cambio Sky
 
 06-11-2023
   * Mas partes del juego con TrenchBroom
