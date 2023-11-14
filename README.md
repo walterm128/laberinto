@@ -18,6 +18,7 @@ Novedades:
   * Si teníamos una partida guardada se pueden perder, por la nueva forma de
     almacenamiento en disco (puede que sea necesario en ciertos casos abrir por
     segunda ves el juego, ya que en caso de error se crean de nuevo)
+  * Se agrega barra de porcentaje de carga del nivel
 
 07-11-2023
   * Shader Black Hole
