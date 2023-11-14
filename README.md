@@ -6,13 +6,19 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/kAFUABLC#-ZEKxDaETRYz8f07kux00zpzxV3wOi2sGC5NchBE_XE
+https://mega.nz/file/BAd0CTDa#EB5doKR9LAYtc8zgQeDUxcMHY5U_dtzxoa8xv7kSrzM
 (Para PC: mejor calidad y mas fluido)
 
 ![alt](Screenshot.png)
 
 Novedades:
 ---------
+14-11-2023
+  * Se migra a Godot 4.2b6
+  * Si teníamos una partida guardada se pueden perder, por la nueva forma de
+    almacenamiento en disco (puede que sea necesario en ciertos casos abrir por
+    segunda ves el juego, ya que en caso de error se crean de nuevo)
+
 07-11-2023
   * Shader Black Hole
   * Fix Portals
