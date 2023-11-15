@@ -6,13 +6,16 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/hd9X1DZJ#vYOBe2hlo44KjF1B003ytzSnSEd0CL7Jt7SQ-hghTiM
+https://mega.nz/file/sQ8iRDoI#BtidPbweyCQJqu3OvFh5PyxJsWxlVF51NXFsjGBD9xM
 (Para PC: mejor calidad y mas fluido)
 
 ![alt](Screenshot.png)
 
 Novedades:
 ---------
+15-11-2023
+  * Se finaliza el cambio de página de los libros
+
 14-11-2023
   * Se migra a Godot 4.2b6
   * Si teníamos una partida guardada se pueden perder, por la nueva forma de
