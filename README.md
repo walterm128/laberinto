@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/ANtgXRrJ#EaWEW6ggLJHjaPvCNcHYaz4SZrycqXm8kmTqdAQtjOs
+https://mega.nz/file/0FdgDapB#4NACRC-EfVuj0NhTIdCXARBQvba0RXzMa6aH89xdMwA
 (Para PC: mejor calidad y mas fluido)
 
 ![alt](Screenshot.png)
