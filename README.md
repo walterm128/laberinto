@@ -47,6 +47,11 @@ Novedades:
   * Se Agrega auto guardado cuando salimos al menú principal
   * Se agrega enemigo a partir de niveles 4 y 5
 
+Recursos Laberinto:
+  * Soul Cube: Danny Thomson
+  * Texturas: https://www.realm667.com/index.php/en/
+  * Música: Hellsoft
+
 Más Juegos:
 
 Sistema solar:
