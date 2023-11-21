@@ -14,6 +14,7 @@ https://mega.nz/file/FIMgyAQZ#dhDw1ndqIj5BeNaTeyXDdsFYC7yZ2wk4deGNcnWMFKs
 Novedades:
 ---------
 15-11-2023
+  * Se migra a Godot 4.2RC1
   * Se finaliza el cambio de página de los libros
 
 14-11-2023
@@ -44,7 +45,7 @@ Novedades:
   * Se agregan 2 niveles
     * HTerrain
   * Se Agrega auto guardado cuando salimos al menú principal
-  * Se agrega enemigo a partir de niveles 4 y 5
+  * Se agrega NavAgent
 
 Recursos Laberinto:
   * Soul Cube: Danny Thomson
