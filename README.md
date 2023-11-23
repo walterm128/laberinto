@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/FIMgyAQZ#dhDw1ndqIj5BeNaTeyXDdsFYC7yZ2wk4deGNcnWMFKs
+https://mega.nz/file/EU1CnZwC#KQPsvZadksus5vnLnIyvqqSxQpCTmBcTfS0IgHCUiKs
 (Para PC: mejor calidad y mas fluido que en el navegador Web)
 
 ![alt](Screenshot.png)
@@ -44,7 +44,8 @@ Novedades:
   * Se agregan 2 niveles
     * HTerrain
   * Se Agrega auto guardado cuando salimos al menú principal
-  * Se agrega enemigo a partir de niveles 4 y 5
+  * Se agrega NavAgent
+  * Se migra a Godot Niveles 1, 2 y 3, de Game Jam Rosario, Santa Fe, Argentina
 
 Recursos Laberinto:
   * Soul Cube: Danny Thomson
