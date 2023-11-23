@@ -13,6 +13,9 @@ https://mega.nz/file/EU1CnZwC#KQPsvZadksus5vnLnIyvqqSxQpCTmBcTfS0IgHCUiKs
 
 Novedades:
 ---------
+23-11-2023
+  * Se actualiza a Godot 4.2RC1
+
 15-11-2023
   * Se finaliza el cambio de página de los libros
 
