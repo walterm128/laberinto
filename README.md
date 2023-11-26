@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/BJ1BwCYB#Nk_59f4I1QwqS5feDZhp0Prq8uOV0TwzSMqdguNs-0k
+https://mega.nz/file/0QUmDKLb#MblexFFRZ0G-DedK0QtRXFtaA9JDOizJ0x9S-2IStpI
 (Para PC: mas fluido que en el navegador Web)
 
 ![alt](Screenshot.png)
@@ -16,6 +16,7 @@ Novedades:
 26-11-2023
   * Se actualiza a Godot 4.2RC2
   * Se Migra a Qodot Addon por compatibilidad con 4.2RC
+  * Mejoras de oclusión
 
 15-11-2023
   * Se actualiza a Godot 4.2RC1
