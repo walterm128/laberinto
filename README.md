@@ -16,6 +16,7 @@ Novedades:
 30-11-2023
   * Update Godot 4.2stable version
   * Se agregan sombras, desactivar para hardware menos potente
+  * Se agrega Player 3D de modelo en poly.pizza
 
 26-11-2023
   * Se actualiza a Godot 4.2RC2
