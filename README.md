@@ -16,7 +16,7 @@ Novedades:
 30-11-2023
   * Update Godot 4.2stable version
   * Se agregan sombras, desactivar para hardware menos potente
-  * Se agrega People & Characters 3D models (Licence CC0 1.0 Deed CC0 1.0 Universal) (poly.pizza)
+  * Se agrega People & Characters 3D models (license CC0 1.0 Deed CC0 1.0 Universal) (poly.pizza)
   * Texturas planetas y estrella: NASA
 
 26-11-2023
