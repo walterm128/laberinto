@@ -6,13 +6,16 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/MIdRQYJI#X3FGeSNMJr9_MxWhV1V9vNKgZgx9PYCGKEMgaEQt_Z8
-(Para PC: experiencia mas fluida que en el navegador Web)
+https://mega.nz/file/BY9wzZTC#XKOdK_sd-GBFgsvVJXhh6RyQuy7A8OeKBS1HUOJWXeE
+(Para PC: mas fluida la carga que en el navegador Web)
 
 ![alt](Screenshot.png)
 
 Novedades:
 ---------
+06-12-2023
+  * Internacionalizando: se agrega a opciones idioma Español e Ingles para el juego
+
 30-11-2023
   * Update Godot 4.2stable version
   * Se agregan sombras, desactivar para hardware menos potente
