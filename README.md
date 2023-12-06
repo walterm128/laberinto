@@ -14,7 +14,7 @@ https://mega.nz/file/BY9wzZTC#XKOdK_sd-GBFgsvVJXhh6RyQuy7A8OeKBS1HUOJWXeE
 Novedades:
 ---------
 06-12-2023
-  * Internacionalizando: se agrega a opciones idioma Español e Ingles para el juego
+  * Internacionalizando: se agrega en Opciones idioma Español e Ingles para el juego
 
 30-11-2023
   * Update Godot 4.2stable version
