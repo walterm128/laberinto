@@ -6,13 +6,17 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/Ad1XRa5a#WkkSnnOeJlGbYz07_9y6ZSOnyt-ka6GUEgTC-JATKYk
+https://mega.nz/file/FVVxmaJC#0NMFPo0cXKlbaLfq_sMeLKPz7uJIur9c9vg4mdawa3o
 (Para PC: mas fluida la carga que en el navegador Web)
 
 ![alt](Screenshot.png)
 
 Novedades:
 ---------
+07-12-2023
+  * Fix lineas en las sombras
+  * Se migra Scatter
+
 06-12-2023
   * Internacionalizando: se agrega en Opciones idioma Español e Ingles para el juego
 
