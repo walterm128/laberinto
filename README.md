@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/UMcBGLwJ#YCEkvmfBpkSg9Yot6TefwcTZH1U72J6Sd-447rkr6fI
+https://mega.nz/file/AUEWAIKQ#8QHUxJc_l4KqoRoaw9SuSh2rM6pBstJJItQoK7urNNs
 (Para PC: mas fluida la carga que en el navegador Web)
 
 ![alt](Screenshot.png)
@@ -17,6 +17,7 @@ Novedades:
   * Update Godot 4.2.1 RC1
   * Fix Head Bob
   * Update Godot Jolt 0.11.0-stable
+  * Splash Screen nueva escena con fade in
 
 07-12-2023
   * Fix lineas en las sombras
