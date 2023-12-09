@@ -16,7 +16,7 @@ Novedades:
 09-12-2023
   * Update Godot 4.2.1 RC1
   * Fix Head Bob
-  * Update Godot Jolt
+  * Update Godot Jolt 0.11.0-stable
 
 07-12-2023
   * Fix lineas en las sombras
