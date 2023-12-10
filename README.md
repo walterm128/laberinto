@@ -19,6 +19,7 @@ Novedades:
   * Update Godot Jolt 0.11.0-stable
   * Splash Screen nueva escena con fade in
   * Click seleccionar/agarrar
+  * Fix sincronización de movimiento del character 3d y cámara
 
 07-12-2023
   * Fix lineas en las sombras
