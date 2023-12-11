@@ -11,6 +11,8 @@ https://mega.nz/file/cVNXCbab#3O0mgx29y00IulYfIaKfPWxf5YXepM75BqGN7mdL-sc
 
 ![alt](Screenshot.jpg)
 
+![alt](Screenshot2.jpg)
+
 Novedades:
 ---------
 09-12-2023
