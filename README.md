@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/gMdFlAhb#GS7ti91iIJTfebISmNOmx0DbqFneLQoO1i8VvOTj0Y4
+https://mega.nz/file/kE1i0LrJ#lpHu2v_grt180wTpn9bK6WpryuMw2crEuBb5vRULznw
 (Para PC: mas fluida la carga que en el navegador Web)
 
 ![alt](Screenshot.png)
@@ -20,6 +20,7 @@ Novedades:
   * Splash Screen nueva escena con fade in
   * Click seleccionar/agarrar
   * Fix sincronización de movimiento del character 3d y cámara
+  * Fix física
 
 07-12-2023
   * Fix lineas en las sombras
