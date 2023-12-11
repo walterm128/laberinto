@@ -9,7 +9,7 @@ Link Descarga Juego PC:
 https://mega.nz/file/cVNXCbab#3O0mgx29y00IulYfIaKfPWxf5YXepM75BqGN7mdL-sc
 (Para PC: mas fluida la carga que en el navegador Web)
 
-![alt](Screenshot.png)
+![alt](Screenshot.jpg)
 
 Novedades:
 ---------
