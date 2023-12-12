@@ -7,7 +7,9 @@ Web: https://walterm128.github.io/laberinto/
 Link Descarga Juego PC:
 
 https://mega.nz/file/tV90HIga#6aGNGbbPJrK4mb_FhirIMtlEr7Wl4d2k8DJfIsDUogE
-(Para PC: mas fluida la carga que en el navegador Web)
+(Para PC: mas fluida la carga que en el navegador Web, por que esta
+desactivado Cross Origin Isolation and SharedArrayBuffer para que funcione en
+Github)
 
 ![alt](Screenshot.jpg)
 
