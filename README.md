@@ -6,7 +6,7 @@ Web: https://walterm128.github.io/laberinto/
 
 Link Descarga Juego PC:
 
-https://mega.nz/file/tV90HIga#6aGNGbbPJrK4mb_FhirIMtlEr7Wl4d2k8DJfIsDUogE
+https://mega.nz/file/ZZtySSYT#jM9IzUX5QofD3Ns6rzwwYYd5lGhMlabjKYj56_2aAlE
 (Para PC: mas fluida la carga que en el navegador Web, por que esta
 desactivado Cross Origin Isolation and SharedArrayBuffer para que funcione en
 Github)
@@ -17,6 +17,11 @@ Github)
 
 Novedades:
 ---------
+26-12-2023
+  * Update Godot 4.3dev1
+  * Colisión con arboles, Piedras y grass dependiendo el mapa
+  * Rotar con plataforma(solo windows)
+  
 12-12-2023
   * Update Godot 4.2.1stable
 
