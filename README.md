@@ -1,12 +1,9 @@
 # Laberinto
 
-Link Juego Web:
+Link Juego Web y bajar para PC:
 
-Web: https://walterm128.github.io/laberinto/
+https://walterm122.itch.io/laberinto
 
-Link Descarga Juego PC:
-
-https://mega.nz/file/VUdGjbzR#HjdorgQkVe4k0fQwLywa5jrc3C66Kb4Gef0hGK6b_BI
 (Para PC: mas fluida la carga que en el navegador Web, por que esta
 desactivado Cross Origin Isolation and SharedArrayBuffer para que funcione en
 Github)
@@ -14,6 +11,8 @@ Github)
 ![alt](Screenshot.jpg)
 
 ![alt](Screenshot2.jpg)
+
+![alt](Screenshot3.jpg)
 
 Novedades:
 ---------
