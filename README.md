@@ -18,7 +18,7 @@ Github)
 Novedades:
 ---------
 27-12-2023
-  * Rotar con plataforma Fix para Web y Windows
+  * Fix: Rotar con plataforma para Web y Windows
 
 26-12-2023
   * Update Godot 4.3dev1
